@@ -20,5 +20,5 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <h1>Discord Status</h1>
-![Lanyard Visualizer](https://lanyard-visualizer.netlify.app/919674489581731842/image)
+[![Discord Presence](https://lanyard.cnrad.dev/api/919674489581731842)](https://discord.com/users/919674489581731842)
 
