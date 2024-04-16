@@ -20,6 +20,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <h1>Discord Status</h1>
-![Discord](https://discord.c99.nl/widget/theme-1/919674489581731842.png)
+<a href="https://discord.c99.nl/widget/theme-1/919674489581731842.png">
+  <img src="https://discord.c99.nl/widget/theme-1/919674489581731842.png">
+</a>
 
 
