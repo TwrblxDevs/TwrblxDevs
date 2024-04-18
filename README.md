@@ -26,4 +26,5 @@
   <img src="https://discord.c99.nl/widget/theme-1/919674489581731842.png">
 </a>
 
-
+## About me
+<b>Hey there!</b> my name is TWrblx I am a Canadian Web Developer and Discord Bot Developer. I created <a href="https://rosearcher.xyz">RoSearcher</a>, <a href="https://erlcnews.web.app">ERLC Update News</a> and <a href="https://mechaphoenix7722.com/">MechPhoenix</a>.
