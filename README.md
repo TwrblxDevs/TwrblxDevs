@@ -34,7 +34,7 @@ Welcome to my corner of the digital universe! I'm TWrblx, a passionate Canadian 
 ## About Me
 I love crafting digital experiences that are both functional and delightful. From building web apps to tinkering with Discord bots, I'm always exploring new ways to bring ideas to life.
 
-Feel free to reach out, collaborate, or just say hi! You can find me on [GitHub](https://github.com/TwrblxDevs) and [Twitter](https://twitter.com/Twrblx). Let's connect and create something awesome together! 🚀
+Feel free to reach out, collaborate, or just say hi! You can find me on [GitHub](https://github.com/TwrblxDevs) and [Twitter](https://twitter.com/TW_rblx4). Let's connect and create something awesome together! 🚀
 
 <p align="center">
   <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
