@@ -33,3 +33,5 @@
 <p align="center">
 <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TwrblxDevs&title_color=2257EA&bg_color=f7f7f7&min_height=380px&max_height=380px)](https://github.com/anuraghazra/github-readme-stats)
