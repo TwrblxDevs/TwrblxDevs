@@ -10,6 +10,8 @@ Welcome to my corner of the digital universe! I'm TWrblx, a passionate Canadian 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TwrblxDevs&title_color=2257EA&bg_color=f7f7f7&min_height=380px&max_height=380px">
   </a>
+  <a href="https://discord.c99.nl/widget/theme-1/1182682121094049923.png">
+    <img src="https://discord.c99.nl/widget/theme-1/1182682121094049923.png">
 </div>
 
 ## Websites
