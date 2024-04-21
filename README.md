@@ -40,3 +40,21 @@ Feel free to reach out, collaborate, or just say hi! You can find me on [GitHub]
 <p align="center">
   <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
 </p>
+
+
+## Who am I?
+<p align="center">
+    <img src="https://us-east-1.tixte.net/uploads/cdn.rosearcher.xyz/James.png" width="350" height="500">
+</p>
+
+My name is <b>James</b> I was born in Ontario, Canada and I do Web Development and I am a Discord Bot Developer. I am working towards becoming a full time cop. 
+
+
+```javascript
+  function log()
+  {
+    return "Hi"
+  }
+
+  console.log(log())
+```
