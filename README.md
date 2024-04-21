@@ -29,6 +29,9 @@ Welcome to my corner of the digital universe! I'm TWrblx, a passionate Canadian 
  ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
  ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
+ [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TwrblxDevs
+)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Discord Status
 [![Discord Status](https://api.discord-status.me/919674489581731842?nitro&boost=3&gradient=%23000000%2C%23bf0dc3%2C%23000000%2C%23bf0dc3)]([https://discord.c99.nl/widget/theme-1/919674489581731842.png](https://api.discord-status.me/919674489581731842?nitro&boost=3&gradient=%23000000%2C%23bf0dc3%2C%23000000%2C%23bf0dc3))
 
