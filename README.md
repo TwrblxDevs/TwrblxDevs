@@ -12,7 +12,11 @@ Welcome to my corner of the digital universe! I'm TWrblx, a passionate Canadian 
   </a>
   <a href="https://discord.c99.nl/widget/theme-1/1182682121094049923.png">
     <img src="https://discord.c99.nl/widget/theme-1/1182682121094049923.png">
+   
 </div>
+
+ [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@TwrblxDevs
+)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Websites
 - [ERLC News](https://erlcnews.web.app/)
@@ -29,8 +33,7 @@ Welcome to my corner of the digital universe! I'm TWrblx, a passionate Canadian 
  ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
  ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@TwrblxDevs
-)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
