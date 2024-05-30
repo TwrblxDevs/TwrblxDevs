@@ -59,7 +59,7 @@ My name is <b>James</b> I was born in Ontario, Canada and I do Web Development a
 
 
 ## NPM Packages
-<p align="center">
+<p align="center" href="https://www.npmjs.com/package/rosearcher">
 RoSearcher - API Module
 </p>
 <div align="center">
