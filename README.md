@@ -58,12 +58,14 @@ Feel free to reach out, collaborate, or just say hi! You can find me on [GitHub]
 My name is <b>James</b> I was born in Ontario, Canada and I do Web Development and I am a Discord Bot Developer. I am working towards becoming a full time cop. 
 
 
-```javascript
-  function log()
-  {
-    return "Hi"
-  }
+## NPM Packages
+<p align="center">
+RoSearcher - API Module
+</p>
+<div align="center">
 
-  console.log(log())
-```
-`C:\Github\Files\ReadMe\index.js> Hi`
+![NPM Version](https://img.shields.io/npm/v/rosearcher)
+![NPM Downloads](https://img.shields.io/npm/dw/rosearcher)
+![NPM Collaborators](https://img.shields.io/npm/collaborators/rosearcher)
+
+</div>
