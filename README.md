@@ -36,7 +36,7 @@ Welcome to my corner of the digital universe! I'm TWrblx, a passionate Canadian 
 
 
 ## Discord Status
-[![Discord Status](https://api.discord-status.me/919674489581731842?nitro&boost=3&gradient=%23000000%2C%23bf0dc3%2C%23000000%2C%23bf0dc3)]([https://discord.c99.nl/widget/theme-1/919674489581731842.png](https://api.discord-status.me/919674489581731842?nitro&boost=3&gradient=%23000000%2C%23bf0dc3%2C%23000000%2C%23bf0dc3))
+[![Discord Status](https://api.discord-status.me/919674489581731842?nitro&boost=3&gradient=%23000000%2C%23bf0dc3%2C%23000000%2C%23bf0dc3)]([https://discord.c99.nl/widget/theme-1/919674489581731842.png](https://api.discord-status.me/919674489581731842?nitro&boost=3&gradient=%23000000%2C%23bf0dc3%2C%23000000%2C%23bf0dc3)) - Working on fixing this.
 
 ## About Me
 I love crafting digital experiences that are both functional and delightful. From building web apps to tinkering with Discord bots, I'm always exploring new ways to bring ideas to life.
