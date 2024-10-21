@@ -4,14 +4,11 @@ Welcome to my corner of the digital universe! I'm TWrblx, a passionate Canadian 
 
 ## Featured Discord Bot & Top Languages
 <div>
-  <a href="https://top.gg/bot/1182682121094049923">
-    <img src="https://top.gg/api/widget/1182682121094049923.svg">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TwrblxDevs&title_color=2257EA&bg_color=f7f7f7&min_height=380px&max_height=380px">
   </a>
-  <a href="https://discord.c99.nl/widget/theme-1/1182682121094049923.png">
-    <img src="https://discord.c99.nl/widget/theme-1/1182682121094049923.png">
+
    
 </div>
 
@@ -60,13 +57,6 @@ My name is <b>James</b> I was born in Ontario, Canada and I do Web Development a
 
 
 ## NPM Packages
-<p align="center" href="https://www.npmjs.com/package/rosearcher">
-RoSearcher - API Module
-</p>
-<div align="center">
-
-![NPM Version](https://img.shields.io/npm/v/rosearcher)
-![NPM Downloads](https://img.shields.io/npm/dw/rosearcher)
-![NPM Collaborators](https://img.shields.io/npm/collaborators/rosearcher)
+None as of right now.
 
 </div>
