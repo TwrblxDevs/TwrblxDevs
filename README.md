@@ -17,8 +17,6 @@ Welcome to my corner of the digital universe! I'm TWrblx, a passionate Canadian 
 
 ## Websites
 - [ERLC News](https://erlcnews.web.app/)
-- [Mecha Phoenix](https://mechaphoenix7722.com/)
-- [RoSearcher](https://rosearcher.xyz)
 
 ## Technologies I Love to Code With
  ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
