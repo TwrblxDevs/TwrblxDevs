@@ -31,7 +31,8 @@ Welcome to my corner of the digital universe! I'm TWrblx, a passionate Canadian 
 
 
 
-
+## Music (If im listening to something it should show here)
+[[![Music](https://6klabs.com/widget/youtube/18e683f66f298f6a0419e576fbf209b884e57183209bfacbbcb025584a0d670a)][(https://6klabs.com/widget/youtube/18e683f66f298f6a0419e576fbf209b884e57183209bfacbbcb025584a0d670a)]](https://6klabs.com/widget/youtube/18e683f66f298f6a0419e576fbf209b884e57183209bfacbbcb025584a0d670a)
 
 ## Discord Status
 [![Discord Status](https://api.discord-status.me/919674489581731842?nitro&boost=3&gradient=%23000000%2C%23bf0dc3%2C%23000000%2C%23bf0dc3)]([https://discord.c99.nl/widget/theme-1/919674489581731842.png](https://api.discord-status.me/919674489581731842?nitro&boost=3&gradient=%23000000%2C%23bf0dc3%2C%23000000%2C%23bf0dc3)) - Working on fixing this.
