@@ -8,6 +8,7 @@ Welcome to my corner of the digital universe! I'm TWrblx, a passionate Canadian 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TwrblxDevs&title_color=2257EA&bg_color=f7f7f7&min_height=380px&max_height=380px">
   </a>
+  <figure><embed src="https://wakatime.com/share/@TwrblxDevs/6ae8d35c-d4c9-45b1-9547-1add631040a2.svg"></embed></figure>
 
    
 </div>
