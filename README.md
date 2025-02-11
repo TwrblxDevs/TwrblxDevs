@@ -21,7 +21,7 @@ Welcome to my corner of the digital universe! I'm TWrblx, a passionate Canadian 
  ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
  ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
-
+</div>
 ## About Me
 I love crafting digital experiences that are both functional and delightful. From building web apps to tinkering with Discord bots, I'm always exploring new ways to bring ideas to life.
 
