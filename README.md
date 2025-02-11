@@ -14,9 +14,6 @@ Welcome to my corner of the digital universe! I'm TWrblx, a passionate Canadian 
  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@TwrblxDevs
 )](https://github.com/anuraghazra/github-readme-stats)
 
-## Websites
-- [ERLC News](https://erlcnews.web.app/)
-
 ## Technologies I Love to Code With
  ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
  ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
