@@ -10,6 +10,10 @@ Welcome to my corner of the digital universe! I'm TWrblx, a passionate Canadian 
 
    
 </div>
+
+ [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@TwrblxDevs
+)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Technologies I Love to Code With
  ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
  ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
@@ -21,7 +25,7 @@ Welcome to my corner of the digital universe! I'm TWrblx, a passionate Canadian 
  ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
  ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
-</div>
+
 ## About Me
 I love crafting digital experiences that are both functional and delightful. From building web apps to tinkering with Discord bots, I'm always exploring new ways to bring ideas to life.
 
