@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-Welcome to my corner of the digital universe! I'm TWrblx, a passionate Canadian Web Developer and Discord Bot Developer. Feel free to explore some of my projects and interests below!
+Welcome to my corner of the digital universe! I'm TWrblx, a passionate Canadian Web Developer. Feel free to explore some of my projects and interests below!
 
 ## Featured Discord Bot & Top Languages
 <div>
@@ -27,7 +27,7 @@ Welcome to my corner of the digital universe! I'm TWrblx, a passionate Canadian 
 
 
 ## About Me
-I love crafting digital experiences that are both functional and delightful. From building web apps to tinkering with Discord bots, I'm always exploring new ways to bring ideas to life.
+I love crafting digital experiences that are both functional and delightful. From building web apps to coding whole robots, I'm always exploring new ways to bring ideas to life.
 
 Feel free to reach out, collaborate, or just say hi! You can find me on [GitHub](https://github.com/TwrblxDevs) and [Twitter](https://twitter.com/TW_rblx4). Let's connect and create something awesome together! 🚀
 
@@ -41,7 +41,7 @@ Feel free to reach out, collaborate, or just say hi! You can find me on [GitHub]
     <img src="https://us-east-1.tixte.net/uploads/cdn.rosearcher.xyz/James.png" width="350" height="500">
 </p>
 
-My name is <b>James</b> I was born in Ontario, Canada and I do Web Development and I am a Discord Bot Developer. I am working towards becoming a full time cop.
+My name is <b>James</b> I was born in Ontario, Canada and I do Web Development. I am working towards becoming a full time cop.
 
 ## NPM Packages
 None as of right now.
