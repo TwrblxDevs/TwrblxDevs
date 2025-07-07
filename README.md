@@ -30,6 +30,7 @@ Welcome to my corner of the digital universe! I'm TWrblx, a passionate Canadian 
 I love crafting digital experiences that are both functional and delightful. From building web apps to coding whole robots, I'm always exploring new ways to bring ideas to life.
 
 Feel free to reach out, collaborate, or just say hi! You can find me on [GitHub](https://github.com/TwrblxDevs) and [Twitter](https://twitter.com/TW_rblx4). Let's connect and create something awesome together! 🚀
+![Coding Cupid](https://img.shields.io/badge/Coding_Cupid-%E2%99%A5%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB-brightgreen)
 
 <p align="center">
   <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
