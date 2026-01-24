@@ -1,50 +1,155 @@
-# Hey there! 👋
+<div align="center">
+  
+# ELLO THERE, MY NAME IS TWRBLX
 
-Welcome to my corner of the digital universe! I'm TWrblx, a passionate Canadian Web Developer. Feel free to explore some of my projects and interests below!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7F7F7FF&center=true&vCenter=true&random=false&width=600&lines=I+like+random+shit;MIGHT+BE+AUTSITIC;MAPLE+SYRUP;WEE+WOOOOO+WEEE+WOOOOOOOOO;*death+sound*)](https://git.io/typing-svg)
 
-## Featured Discord Bot & Top Languages
-<div>
-  </a>
-  </a>
- <img src="https://wakatime.com/share/@TwrblxDevs/6ae8d35c-d4c9-45b1-9547-1add631040a2.svg"></img>
+[![Profile Views](https://komarev.com/ghpvc/?username=twrblxdevs&color=0000FF&style=for-the-badge&label=Profile+Views)](https://github.com/twrblxdevs)
 
-   
 </div>
 
- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@TwrblxDevs
-)](https://github.com/anuraghazra/github-readme-stats)
-
-## Technologies I Love to Code With
- ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
- ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
- ![Python](https://img.shields.io/badge/-Python-ffea00?style=for-the-badge&labelColor=black&logo=python&logoColor=ffea00)
- ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
- ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
- ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
- ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-
+---
 
 ## About Me
-I love crafting digital experiences that are both functional and delightful. From building web apps to coding whole robots, I'm always exploring new ways to bring ideas to life.
 
-Feel free to reach out, collaborate, or just say hi! You can find me on [GitHub](https://github.com/TwrblxDevs) and [Twitter](https://twitter.com/TW_rblx4). Let's connect and create something awesome together! 🚀
-![Coding Cupid](https://img.shields.io/badge/Coding_Cupid-%E2%99%A5%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB-brightgreen)
+```typescript
+const TwrblxDevs = {
+    pronouns: "he/him",
+    location: "North America/Maple Syrup Land",
+    role: "Developer",
+    currentFocus: ["yes"],
+    games: ["Grand Theft Auto V", "Roblox"],
+    expertise: ["FullStack Programmer", "API Development", "Discord Bots"],
+    experience: "9+ years in development",
+    askMeAbout: ["Emergency Lighting", "Emgergency Services", "Cars"],
+    motto: "Some random shit ig?"
+};
+```
 
-<p align="center">
-  <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
-</p>
+---
 
+## Current Positions
 
-## Who am I?
-<p align="center">
-    <img src="https://us-east-1.tixte.net/uploads/cdn.rosearcher.xyz/James.png" width="350" height="500">
-</p>
+<div align="center">
 
-My name is <b>James</b> I was born in Ontario, Canada and I do Web Development. I am working towards becoming a full time cop.
+| Role | Organization | Members |
+|------|--------------|---------|
+| Support Team | Redon Tech | 3.2k+ |
+| Lead Programmer / Senior Developer | Fire Response Interactive | 1.3k+ |
+| Programmer / Developer | Legacy Development | N/A |
 
-## NPM Packages
-None as of right now.
+</div>
+
+---
+
+## Skills & Experience
+
+<div align="center">
+
+**Achievement Stats**
+
+![](https://img.shields.io/badge/Experience-9+_Years-60A5FA?style=for-the-badge&logo=code&logoColor=white)
+![](https://img.shields.io/badge/Leadership-3_Active-2563EB?style=for-the-badge&logo=target&logoColor=white)
+![](https://img.shields.io/badge/Expertise-Multi_Platform-93C5FD?style=for-the-badge&logo=serverless&logoColor=white)
+
+**Languages**
+
+![LuaU](https://img.shields.io/badge/LuaU-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
+**Platforms & Tools**
+
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-3B82F6?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-60A5FA?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+  
+<img height="160em" src="https://github-readme-stats-seven-zeta-41.vercel.app/api?username=twrblxdevs&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&include_orgs=true&hide_border=false&border_radius=10&border_color=F7F7F7FF&cache_seconds=0"/>
+<img height="160em" src="https://github-readme-stats-seven-zeta-41.vercel.app/api/top-langs/?username=twrblxdevs&layout=compact&langs_count=8&theme=github_dark&include_all_commits=true&count_private=true&include_orgs=true&hide_border=false&border_radius=10&border_color=F7F7F7FF&cache_seconds=0"/>
+
+</div>
+
+<div align="center">
+
+![](https://github-profile-summary-cards-zeta-six.vercel.app/api/cards/productive-time?username=twrblxdevs&theme=github_dark&utcOffset=-5&card_width=400&include_all_commits=true)
+![](https://github-profile-summary-cards-zeta-six.vercel.app/api/cards/repos-per-language?username=twrblxdevs&theme=github_dark&card_width=400&exclude_repo=&langs_count=20)
+![](https://github-readme-streak-stats.herokuapp.com/?user=twrblxdevs&theme=github-dark-blue&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)
+
+</div>
+
+---
+
+## Current Projects
+
+<div align="center">
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| None | I have really nothing to work on | never |
+
+</div>
+
+---
+
+## Coding Activity
+
+<div align="center">
+
+![](https://github-profile-summary-cards-zeta-six.vercel.app/api/cards/profile-details?username=twrblxdevs&theme=github_dark&include_all_commits=true)
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=twrblxdevs&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph)](https://github.com/twrblxdevs)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</div>
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-twrblx-3B82F6?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![GitHub](https://img.shields.io/badge/GitHub-TwrblxDevs-1E40AF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miatya)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-60A5FA?style=for-the-badge&logo=gmail&logoColor=white)]()
+
+*Feel free to reach out for collaborations or just a chat!*
+
+</div>
+
+---
+
+<div align="center">
+
+### Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E40AF,50:3B82F6,100:60A5FA&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling"/>
+
+If you like my projects, consider giving them a star!
+
+---
+
+<sub>*Some content on this profile was generated and formatted with AI assistance.*</sub>
 
 </div>
