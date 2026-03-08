@@ -35,8 +35,6 @@ const TwrblxDevs = {
 | Role | Organization | Members |
 |------|--------------|---------|
 | Support Team | Redon Tech | 3.2k+ |
-| Lead Programmer / Senior Developer | Fire Response Interactive | 1.3k+ |
-| Programmer / Developer | Legacy Development | N/A |
 
 </div>
 
