@@ -34,7 +34,7 @@ const TwrblxDevs = {
 
 | Role | Organization | Members |
 |------|--------------|---------|
-| Support Team | Redon Tech | 3.2k+ |
+
 
 </div>
 
