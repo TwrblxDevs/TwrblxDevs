@@ -2,7 +2,7 @@
   
 # ELLO THERE, MY NAME IS TWRBLX
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7F7F7FF&center=true&vCenter=true&random=false&width=600&lines=I+like+random+shit;MIGHT+BE+AUTSITIC;MAPLE+SYRUP;WEE+WOOOOO+WEEE+WOOOOOOOOO;*death+sound*)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7F7F7FF&center=true&vCenter=true&random=false&width=600&lines=I+like+random+shit;IDK+WHO+I+AM;MAPLE+SYRUP;WEE+WOOOOO+WEEE+WOOOOOOOOO;*death+sound*)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=twrblxdevs&color=0000FF&style=for-the-badge&label=Profile+Views)](https://github.com/twrblxdevs)
 
